@@ -5,7 +5,8 @@
 }
 
 .header {
-    border: black 80px;
+    border-bottom: black 8px;
+    border-style: solid;
     padding: 4px;
     background-color: rgb(83, 218, 228);
     text-align: right;
