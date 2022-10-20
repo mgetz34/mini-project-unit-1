@@ -4,7 +4,14 @@
     box-sizing: border-box;
 }
 
-header {
-    background-color: green;
-    border: black;
+.header {
+    border: black 80px;
+    padding: 4px;
+    background-color: rgb(83, 218, 228);
+    text-align: right;
+}
+
+li {
+    display: inline;
+    word-spacing: 5px;
 }
